@@ -1,0 +1,1 @@
+This repository demonstrates a common error when working with raw pointers in Rust and vectors. Modifying a vector's contents via a raw pointer can be dangerous if not done precisely.  The `bug.rs` file shows the erroneous approach while `bugSolution.rs` provides a safer alternative using standard library methods.
